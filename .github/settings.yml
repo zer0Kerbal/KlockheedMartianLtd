@@ -12,13 +12,13 @@ repository:
   name: KlockheedMartian
 
   # A short description of the repository that will show up on GitHub
-  description: "Klockheed Martian - Our Mission is Kerbol. Agent, flag, and common configs for Klockheed Martin."
+  description: Klockheed Martian - Our Mission is Kerbol. Agent, flag, and common configs for Klockheed Martin.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/
   
   # A comma-separated list of topics to set on the repository
-  topics: klockheed,martian,flag,agent,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,dtobi,zedk
+  topics: klockheed,martian,flag,agent,kerbal,kerbalspaceprogram,ksp,ksp-mods,kerbal-space,kerbal-space-program,kerbal-mods,dtobi,zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
