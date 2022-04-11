@@ -12,7 +12,7 @@ repository:
   name: KlockheedMartian
 
   # A short description of the repository that will show up on GitHub
-  description: Our Mission is Kerbol. This add-on provides a common Agent, flag, and configs for Klockheed Martin.
+  description: Our Mission is Kerbol. This add-on provides a common agent, flag, and configs for Klockheed Martin.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*
@@ -258,7 +258,7 @@ labels:
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
   - title: 1.0.0.0-release
-    description: progress toward 1.0.0.0-adoption
+    description: progress toward 1.0.0.0-release
     state: open
 
   - title: Localization - Master
@@ -268,4 +268,3 @@ milestones:
   - title: Localization - English (United States) <en-us.cfg>
     description: progress toward English (United States) <en-us.cfg> localization (Parts)
     state: open
-    
