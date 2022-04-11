@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*
   
   # A comma-separated list of topics to set on the repository
-  topics: klockheed,martian,flag,agent,kerbal,kerbalspaceprogram,ksp,ksp-mods,kerbal-space,kerbal-space-program,kerbal-mods
+  topics: flag,agent,kerbal,kerbalspaceprogram,ksp,ksp-mods,kerbal-space,kerbal-space-program,kerbal-mods,dtobi,zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -54,7 +54,7 @@ repository:
   # Either `true` to enable automatic deletion of branches on merge, or `false` to disable
   delete_branch_on_merge: true
 
-  # has_discussions: true
+  has_discussions: true
 
 # Labels: define labels for Issues and Pull Requests
 labels:
