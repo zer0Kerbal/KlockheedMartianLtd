@@ -54,7 +54,7 @@ repository:
   # Either `true` to enable automatic deletion of branches on merge, or `false` to disable
   delete_branch_on_merge: true
 
-  has_discussions: true
+  # has_discussions: true
 
 # Labels: define labels for Issues and Pull Requests
 labels:
