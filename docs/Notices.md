@@ -23,7 +23,7 @@ based upon work by LisiasT -->
 * "Klockheed Martian" is trademark of dtobi
 * "E- Special Parts Pack" is trademark of dtobi
 * "Klockheed Martian Ltd" is trademark of zer0Kerbal
-* "KML" is trademark of zer0Kerbal
+* "KM" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
