@@ -15,7 +15,7 @@ updated: 29 Apr 2022 -->
 
 *Our Mission is Space*
 
-Agent, flag, and common configs for Klockheed Martin.
+Agent, flags, and common files for Klockheed Martin.
 
 <img src="https://github.com/zer0Kerbal/KlockheedMartian/blob/master/img/logo-asteroid.jpg?raw=true" alt="logo-asteroid.jpg" style="zoom:100%;" /> <img src="https://github.com/zer0Kerbal/KlockheedMartian/blob/master/img/logo-special.jpg?raw=true" alt="logo-special.jpg" style="zoom:100%;" /> <img src="https://github.com/zer0Kerbal/KlockheedMartian/blob/master/img/logo-sse.jpg?raw=true" alt="logo-sse.jpg" style="zoom:100%;" />
 
