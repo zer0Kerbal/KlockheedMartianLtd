@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3025)                                 |
 | ckan       | KlockheedMartian                                                  |
 
-## Version 0.9.99.0-prerelease - `<Our Mission is Kerbal>`
+## Version 0.9.99.0-prerelease - `<Our Mission is Kerbol>`
 
 * 05 May 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
