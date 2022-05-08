@@ -1,16 +1,15 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/*",
-        "docs/LegalMumboJumbo/*",
         "GameData/KlockheedMartian/KlockheedMartian/*",
+        "**/Agencies/**",
         "**/Assets/**",
         "**/Flags/**",
-        "**/Agents/**",
+        "**/Icons/**",
+        "**/LegalMumboJumbo/**",
+        "**/PluginData/**",
         "**/Textures/**",
         "**/UI/**",
-        "**/PluginData/**",
-        "**/Icons/**",
         "**/@thumbs/**"
     ],
     "aggressiveCompression": "false",
