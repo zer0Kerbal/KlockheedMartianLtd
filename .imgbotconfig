@@ -3,8 +3,7 @@
     "ignoredFiles": [
         "GameData/*",
         "docs/LegalMumboJumbo/*",
-        "GameData/KlockheedMartian/*",
-        "GameData/KlockheedMartian/Assets/*",
+        "GameData/KlockheedMartian/KlockheedMartian/*",
         "**/Assets/**",
         "**/Flags/**",
         "**/Agents/**",
