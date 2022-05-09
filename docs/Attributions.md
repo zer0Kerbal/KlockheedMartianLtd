@@ -23,7 +23,7 @@ updated: 02 May 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png"" width="50" height="50" > dtobi</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/" alt="Klockheed Martian (KM)"> the Klockheed Martian (KM)</a> addons!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png"" width="50" height="50" > dtobi</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/" alt="Klockheed Martian (KM)"> the Klockheed Martian series of parts addons!</a></li>
   <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
@@ -31,13 +31,13 @@ updated: 02 May 2022
 ### Flag
 
 <ul>
-  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
 </ul>
 
 ### Agency
 
 <ul>
-  <li><a href="[https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ ](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
 </ul>
 
 ### Special Thanks
@@ -66,7 +66,7 @@ updated: 02 May 2022
 </ul>
 
 <!-- links -->
-[KM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Lockheed Martian Ltd. Forum Thread"
+[KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd. Forum Thread"
 
 [dtobi]: https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/ "dtobi"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
