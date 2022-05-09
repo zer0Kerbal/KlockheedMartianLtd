@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Klockheed Martian Corp (KMC)                                      |
+| modName    | Klockheed Martian Corp (KM/C)                                     |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | dtobi and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/KlockheedMartian)       |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartian)     |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/KlockheedMartianCorp)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianCorp) |
 | spacedock  | (https://spacedock.info/mod/3025)                                 |
-| ckan       | KlockheedMartian                                                  |
+| ckan       | KlockheedMartianCorp                                              |
 
 ## Version 0.9.99.0-prerelease - `<Our Mission is Kerbol>`
 
@@ -37,7 +37,7 @@
 ### Status
 
 * Issues
-  * updates #3 - KlockheedMartian 1.0.0.0-release `<Our Mission is Space>`
+  * updates #3 - KlockheedMartianCorp 1.0.0.0-release `<Our Mission is Space>`
   * updates #4 - 1.0.0.0 Verify Legal Mumbo Jumbo
   * updates #5 - 1.0.0.0 Create Documentation
   * updates #6 - 1.0.0.0 Social Media
