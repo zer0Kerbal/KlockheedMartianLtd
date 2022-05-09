@@ -8,14 +8,14 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.6.0
-Klockheed Martian Corp (KM/C)
+Klockheed Martian Ltd. (KM/L)
 created: 01 Feb 2022
 updated: 02 May 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-# Klockheed Martian Corp (KM/C)
+# Klockheed Martian Ltd. (KM/L)
 [Home](./index.md)
 
 ## Attribution
@@ -66,7 +66,7 @@ updated: 02 May 2022
 </ul>
 
 <!-- links -->
-[KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Corp Forum Thread"
+[KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd. Forum Thread"
 
 [dtobi]: https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/ "dtobi"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
