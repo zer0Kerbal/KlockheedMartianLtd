@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Klockheed Martian Corp (KM/C)
+Klockheed Martian Ltd. (KM/L)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Klockheed Martian Corp (KM/C)
+# Klockheed Martian Ltd. (KM/L)
 
 [Home](./index.md)
 
@@ -30,22 +30,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the KlockheedMartian folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianCorp`
-* Extract the package's `KlockheedMartianCorp` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/KlockheedMartianCorp` --> `<KSP_ROOT>/GameData/`
+  * Delete `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianLtd`
+* Extract the package's `KlockheedMartianLtd` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/KlockheedMartianLtd` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianCorp`
+  * you should end up with `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianLtd`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianCorp`
+  * Delete `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianLtd`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianCorp`
+  * you should end up with `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianLtd`
 
 ## The following file layout must be present after installation
 
@@ -53,7 +53,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [KlockheedMartian]
-      + [KlockheedMartianCorp]
+      + [KlockheedMartianLtd]
         + [Agencies]
           ...
         + [Compatibility]
@@ -66,7 +66,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         * changelog.md
         * License.txt
         * readme.htm
-        * KlockheedMartianCorpLtd.version
+        * KlockheedMartianLtdLtd.version
     ...
   * KSP.log
   ...
@@ -76,4 +76,4 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * none
 
-[KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Corp (KM/C)"
+[KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd. (KM/L)"
