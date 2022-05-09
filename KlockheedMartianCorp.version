@@ -1,0 +1,30 @@
+{
+	"NAME"		     : "Klockheed Martian Corp (KM/C)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianCorp/master/KlockheedMartianCorp.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/KlockheedMartianCorp/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianCorp/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "KlockheedMartianCorp",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 9,
+		"PATCH" : 99,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 3
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "KlockheedMartianCorp",
+		"DIRECTORY" : "KlockheedMartianCorp/KlockheedMartianCorp"
+	}
+}
