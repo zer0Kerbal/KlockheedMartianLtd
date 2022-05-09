@@ -1,12 +1,12 @@
 {
 	"NAME"		     : "Klockheed Martian (KM)",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartian/master/KlockheedMartian.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/KlockheedMartian/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartian/master/changelog.md",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianCorp/master/KlockheedMartianCorp.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/KlockheedMartianCorp/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianCorp/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"	        : "zer0Kerbal",
-		"REPOSITORY"		: "KlockheedMartian",
+		"REPOSITORY"		: "KlockheedMartianCorp",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
@@ -24,7 +24,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :	  "KlockheedMartian",
-		"DIRECTORY" : "KlockheedMartian/KlockheedMartian"
+		"NAME" :	  "KlockheedMartianCorp",
+		"DIRECTORY" : "KlockheedMartianCorp/KlockheedMartianCorp"
 	}
 }
