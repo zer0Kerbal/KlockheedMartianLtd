@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/KlockheedMartianCorp/KlockheedMartianCorp/*",
+        "GameData/KlockheedMartianLtd/KlockheedMartianLtd/*",
         "**/Agencies/**",
         "**/Assets/**",
         "**/Flags/**",
