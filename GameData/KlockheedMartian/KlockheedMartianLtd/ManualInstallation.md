@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Klockheed Martian Ltd. (KM/L)
+Klockheed Martian Ltd (KM/L)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Klockheed Martian Ltd. (KM/L)
+# Klockheed Martian Ltd (KM/L)
 
 [Home](./index.md)
 
@@ -76,4 +76,4 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * none
 
-[KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd. (KM/L)"
+[KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd (KM/L)"
