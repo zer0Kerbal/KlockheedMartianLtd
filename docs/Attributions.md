@@ -8,14 +8,14 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.6.0
-Klockheed Martain (KM)
+Klockheed Martian Corp (KM/C)
 created: 01 Feb 2022
 updated: 02 May 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-# Klockheed Martain (KM)
+# Klockheed Martian Corp (KM/C)
 [Home](./index.md)
 
 ## Attribution
