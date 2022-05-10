@@ -71,9 +71,9 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
   * KSP.log
   ...
 ```
-
+  
 ### Dependencies
-
+  
 * none
-
+  
 [KMC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd. (KM/L)"
