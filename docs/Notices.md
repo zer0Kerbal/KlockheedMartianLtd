@@ -8,13 +8,13 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-Klockheed Martian (KML)
+Klockheed Martian (KM/L)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# Klockheed Martian (KML)
+# Klockheed Martian (KM/L)
 
 [Home](./index.md)
 
