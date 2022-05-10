@@ -8,14 +8,15 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.6.0
-Klockheed Martian Ltd. (KM/L)
+Klockheed Martian Ltd. (KML)
 created: 01 Feb 2022
 updated: 02 May 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-# Klockheed Martian Ltd. (KM/L)
+
+# Klockheed Martian Ltd. (KML)
 [Home](./index.md)
 
 ## Attribution
@@ -31,13 +32,13 @@ updated: 02 May 2022
 ### Flag
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
 ### Agency
 
 <ul>
-  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a>
+  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
 ### Special Thanks
