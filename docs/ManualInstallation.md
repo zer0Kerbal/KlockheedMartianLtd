@@ -17,7 +17,9 @@ updated: 18 Apr 2022 -->
 
 [Home](./index.md)
 
-<BLURB>
+*Our Mission is Kerbol*
+
+Agent, flags, and common files for Klockheed Martin.
 
 ## Installation Instructions
 
