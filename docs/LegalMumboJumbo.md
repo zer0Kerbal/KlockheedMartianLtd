@@ -8,7 +8,7 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 LegalMumboJumbo.md v1.0.4.1
-Klockheed Martian (KMT)
+Klockheed Martian (KML)
 created: 01 Feb 2022
 updated: 30 Mar 2022
 -->
@@ -22,7 +22,7 @@ updated: 30 Mar 2022
   <i class="fa-solid fa-file-certificate fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
 </div>
 
-# Klockheed Martian (KMT)
+# Klockheed Martian (KML)
 
 [Home](/index.md)
 
