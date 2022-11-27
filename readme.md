@@ -32,7 +32,7 @@ an original creation by *KerbSimpleCo*
 ### See More
 
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
 * GitHub Pages : See [Pages][MOD:pages]
 
@@ -93,6 +93,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 * [dtobi][dtobi] for the inspiration to create this mod
 * see [Attribution.md][MOD:attr] for more comprehensive list
+
 ### Legal Mumbo Jumbo (License *provenance*)
 
 #### Original (0) - [`zer0Kerbal`][zer0Kerbal]
@@ -155,7 +156,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
+[ckan:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [AC]: https://github.com/zer0Kerbal/AsteroidCities "Asteroid Cities (KM/AC)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [KM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Lockheed Martian Ltd."
