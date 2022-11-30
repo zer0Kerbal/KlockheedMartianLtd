@@ -11,7 +11,7 @@ updated: 04 Oct 2022 -->
 
 
 
-# Klockheed Martian Ltd. (KM/L)
+# Klockheed Martian Ltd (KM/L)
 
 *Our mission is kerbol*
 
