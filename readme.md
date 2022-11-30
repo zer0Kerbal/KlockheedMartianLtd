@@ -13,7 +13,7 @@ updated: 04 Oct 2022 -->
 
 # Klockheed Martian Ltd (KM/L)
 
-*Our mission is kerbol*
+*Our mission is Kerbol*
 
 Agent, flags, and common files for Klockheed Martian.
 
