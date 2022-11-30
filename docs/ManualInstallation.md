@@ -16,7 +16,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-*Our Mission is Kerbol*
+*Our mission is Kerbol*
 
 Agent, flags, and common files for Klockheed Martian.
 
