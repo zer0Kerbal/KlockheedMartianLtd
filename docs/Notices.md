@@ -31,7 +31,7 @@ based upon work by LisiasT -->
 
 ## Klockheed Martian
 
-* "Klockheed Martin" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "Klockheed Martian" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo)
 
