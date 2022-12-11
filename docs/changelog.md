@@ -21,20 +21,47 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/3025)                                 |
 | ckan       | KlockheedMartianLtd                                               |
 
-# Version 1.0.0.0-release - `<Our Mission is Kerbol>` edition
+# Version 1.0.1.0-release - `<Nossa Missão é Kerbal>` edition
+
+* Released
+  * 10 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+## Summary
+
+* Add Brazilian Portuguese (Português Brasil)
+* translation courtesy of [LisiasT](https://github.com/net-lisias-ksp)
+
+### Add 1.0.1.0
+
+* <pt-br.cfg> v1.0.1.0
+  * translation courtesy of [LisiasT](https://github.com/net-lisias-ksp)
+  * closes #9 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+  * updates #7 - Localization - Master
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #32 - Klockheed Martian Ltd (KM/L) 1.0.1.0-release `<Our Mission is Kerbal>` edition
+  * closes #33 - 1.0.1.0 Additional Tasks
+
+---
+
+## Version 1.0.0.0-release - `<Our Mission is Kerbol>` edition
 
 * Released
   * 29 Nov 2022
   * for Kerbal Space Program 1.12.4
   * by zer0Kerbal
 
-## Summary
+## Summary 1.0.0.0
 
 * Kerbal Space Program 1.12.4
 * correct typo(s)
 * flag(s)/graphics update
 
-### Changes
+### Changes 1.0.0.0
 
 * <en-us.cfg> v1.0.1.0
   * Correct typo
@@ -71,7 +98,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * created by zer0Kerbal
   * closes #25 - Create Agency
 
-### Localization
+### Localization 0.9.99.0
 
 * Add
   * <us-en.cfg>
@@ -81,7 +108,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * updates #8 - American English <us-en.cfg>
 * updates #7 - Localization - Master
 
-### Status
+### Status 0.9.99.0
 
 * Issues
   * updates #3 - KlockheedMartianLtd 1.0.0.0-release `<Our Mission is Kerbal>`
