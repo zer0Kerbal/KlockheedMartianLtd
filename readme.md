@@ -41,6 +41,7 @@ an original creation by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Português Brasil][BR] Brazilian Portuguese - courtesy of [LisiasT](https://github.com/net-lisias-ksp)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
