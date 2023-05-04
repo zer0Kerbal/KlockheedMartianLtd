@@ -48,7 +48,7 @@
 
 * Kerbal Space Program 1.12.4
 * correct typo(s)
-* flag(s)/graphics update
+* flags/graphics update
 
 ### Changes 1.0.0.0
 
