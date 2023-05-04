@@ -19,7 +19,41 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/KlockheedMartianLtd)    |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)  |
 | spacedock  | (https://spacedock.info/mod/3025)                                 |
-| ckan       | KlockheedMartianLtd                                               |
+
+## Version 1.0.2.0-release - `<Our Mission is Kerbal>` edition
+
+* Released
+  * 05 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes Summary
+
+* Update
+  * Agency and textures
+  * Documentation
+  * Correct typo(s)
+  * HeroLogo/Cover image
+  * Add DescriptionR
+
+### Update 1.0.2.0
+
+* Update
+  * Agency and textures
+  * Documentation
+  * Correct typo(s)
+  * HeroLogo/Cover image
+  * Add DescriptionR
+    * <en-us.cfg> v1.0.2.0
+    * <pt-br.cfg> v1.0.2.0
+  * updates #7 - Localization - Master
+  * updates #8 - English <en-us.cfg>
+  * updates #9 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+* Issues
+  * closes #37 - Klockheed Martian Ltd (KM/L) 1.0.2.0-release `<Our Mission is Kerbal>` edition
+  * closes #38 - 1.0.2.0 Additional Tasks
+
+---
 
 ## Version 1.0.1.0-release - `<Nossa Missão é Kerbal>` edition
 
@@ -65,7 +99,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 * <en-us.cfg> v1.0.1.0
   * Correct typo
-  * updates #8 - American English <us-en.cfg>
+  * updates #8 - English <en-us.cfg>
   * updates #7 - Localization - Master
 * Flags
   * correct size to 512x320
@@ -105,7 +139,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * Localization/
     * [readme.md]
     * [quickstart.md]
-* updates #8 - American English <us-en.cfg>
+* updates #8 - English <en-us.cfg>
 * updates #7 - Localization - Master
 
 ### Status 0.9.99.0
