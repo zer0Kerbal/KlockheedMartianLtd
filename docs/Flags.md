@@ -27,18 +27,12 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <!-- no toc -->
 * [Klockheed Martian (black)](#klockheed-martian-black)
-* [Klockheed Martian (white)](#klockheed-martian-white)
 * [Klockheed Martian (transparent)](#klockheed-martian-transparent)
+* [Klockheed Martian (white)](#klockheed-martian-white)
 
 ### Klockheed Martian (black)
 
  <img src="https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/docs/Flags/KlockheadMartianLtd-white.png" alt="Klockhead Martian Ltd" style="zoom:75%;" />
-
-[top](#flags)
-
-### Klockheed Martian (white)
-
- <img src="https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/docs/Flags/KlockheadMartianLtd.png" alt="Klockhead Martian Ltd" style="zoom:75%;" />
 
 [top](#flags)
 
@@ -47,6 +41,12 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
  <img src="https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/docs/Flags/KlockheadMartianLtd-trans.png" alt="Klockhead Martian Ltd" style="zoom:75%;" />
 
 [top](#flags)
+### Klockheed Martian (white)
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/docs/Flags/KlockheadMartianLtd.png" alt="Klockhead Martian Ltd" style="zoom:75%;" />
+
+[top](#flags)
+
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
 
