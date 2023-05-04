@@ -11,7 +11,7 @@ repository:
   name: KlockheedMartianLtd
 
   # A short description of the repository that will show up on GitHub
-  description: Our Mission is Kerbol. This add-on provides a common agent, flag(s), and configs for all Klockheed Martian products, for Kerbal Space Program.
+  description: Our Mission is Kerbol. This add-on provides a common agent, flags, and configs for all Klockheed Martian products, for Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/
