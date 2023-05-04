@@ -5,7 +5,7 @@ title: License: CC BY-ND 4.0
 
 <!--
 CC-BY-ND-4.0.md v1.0.0.0
-Klockheed Martian Ltd (KM/L)
+Klockheed Martian Ltd (KML)
 created: 01 Feb 2022
 updated: 07 Mar 2022
 -->

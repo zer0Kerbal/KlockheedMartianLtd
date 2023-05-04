@@ -1,6 +1,6 @@
 # config v1.0.3.0
 # Jekyll configuration
-name: Klockheed Martian Ltd (KM/L)
+name: Klockheed Martian Ltd (KML)
 logo: /img/HeroLogo_1920x1920.jpg
 description: An Addon for <a href="https://www.kerbalspaceprogram.com" color= "#bada55" target="_blank">Kerbal Space Program</a>.
 theme: jekyll-theme-architect
