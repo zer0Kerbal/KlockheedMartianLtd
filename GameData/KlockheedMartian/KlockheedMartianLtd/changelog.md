@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Klockheed Martian Ltd (KM/L)                                      |
+| modName    | Klockheed Martian Ltd (KML)                                      |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | dtobi and zer0Kerbal                                              |
@@ -32,7 +32,7 @@
 ### Status 1.0.1.0
 
 * Issues
-  * closes #32 - Klockheed Martian Ltd (KM/L) 1.0.1.0-release `<Our Mission is Kerbal>` edition
+  * closes #32 - Klockheed Martian Ltd (KML) 1.0.1.0-release `<Our Mission is Kerbal>` edition
   * closes #33 - 1.0.1.0 Additional Tasks
 
 ---
@@ -66,7 +66,7 @@
 ### Status 1.0.0.0
 
 * Issues
-  * closes #3 - Klockheed Martian Ltd (KM/L) 1.0.0.0-release `<Our Mission is Kerbal>`
+  * closes #3 - Klockheed Martian Ltd (KML) 1.0.0.0-release `<Our Mission is Kerbal>`
   * closes #4 - 1.0.0.0 Verify Legal Mumbo Jumbo
   * closes #5 - 1.0.0.0 Create Documentation
   * closes #6 - 1.0.0.0 Social Media
