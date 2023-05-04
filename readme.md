@@ -13,7 +13,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-## Klockheed Martian Ltd (KM/L)
+## Klockheed Martian Ltd (KML)
 
 ### *Our mission is Kerbol*
 
