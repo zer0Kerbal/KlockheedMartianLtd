@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Klockheed Martian Ltd (KML)                                      |
+| modName    | Klockheed Martian Ltd (KML)                                       |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | dtobi and zer0Kerbal                                              |

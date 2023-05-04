@@ -4,13 +4,16 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.2.0
 Klockheed Martian Ltd (KML)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 05 Aug 2022
+updated: 04 May 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
+
+based upon work by Lisias -->
 
 ## [Klockheed Martian Ltd (KML)][mod]
 
@@ -30,7 +33,7 @@ You should be all good! (check for latest version on CurseForge)
 
 To install, place the `KlockheedMartian` folder inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianLtd`
 * Extract the package's `KlockheedMartian` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/KlockheedMartian` --> `<KSP_ROOT>/GameData/`
@@ -41,7 +44,7 @@ To install, place the `KlockheedMartian` folder inside your Kerbal Space Program
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/KlockheedMartian/KlockheedMartianLtd`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
@@ -73,7 +76,6 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * ManualInstallation.htm
         * readme.htm
     ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -82,3 +84,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ### Dependencies
   
 * none
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd "Klockheed Martian Ltd (KML)"
