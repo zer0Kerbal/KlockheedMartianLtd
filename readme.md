@@ -17,7 +17,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### *Our mission is Kerbol*
 
-Agent, flag(s), and common files for Klockheed Martian.
+Agent, flags, and common files for Klockheed Martian.
 
 ## By [`zer0Kerbal`][zer0Kerbal], inspired by [dtobi][auth-link]
 
