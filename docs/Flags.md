@@ -47,7 +47,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 [top](#flags)
 
-
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
 
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd "Klockheed Martian Ltd (KML)"
