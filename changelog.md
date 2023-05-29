@@ -2,12 +2,37 @@
   
 | modName    | Klockheed Martian Ltd (KML)                                       |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-4.0                                                      |
+| license    | CC-BY-ND-4.0+ARR                                                  |
 | author     | dtobi and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/KlockheedMartianLtd)    |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)  |
 | spacedock  | (https://spacedock.info/mod/3025)                                 |
+
+## Version 1.0.3.0-release - `<Our Mission is Kerbal>` edition
+
+* Released
+  * 29 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes Summary 1.0.3.0
+
+* Correct typo(s)
+  * was DescriptionRish and should be DescriptionRich
+
+### Update 1.0.3.0
+
+* Update
+  * [Agents.cfg] v1.0.3.0
+    * Correct typo(s)
+  * Documentation
+  * HeroLogo/Cover image
+* Issues
+  * closes #39 - Klockheed Martian Ltd (KML) 1.0.3.0-release `<Our Mission is Kerbal>` edition
+  * closes #40 - 1.0.3.0 Additional Tasks
+
+---
 
 ## Version 1.0.2.0-release - `<Our Mission is Kerbal>` edition
 
@@ -16,7 +41,7 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Changes Summary
+### Changes Summary 1.0.2.0
 
 * Update
   * Agency and textures
