@@ -3,12 +3,12 @@ Klockheed Martian Ltd. (KML)
 created: 05 Aug 2022
 updated: 04 May 2023
 
-TEMPLATE: readme.md v1.7.3.2
+TEMPLATE: readme.md v1.7.4.0
 created: 17 Jul 2017
-updated: 25 May 2023
+updated: 29 May 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-# [Klockheed Martian Ltd (KML)][KML]
+# [Klockheed Martian Ltd (KML)][CURSFG:url]
 
 [![Klockheed Martian Ltd (KML)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
@@ -57,37 +57,42 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Recommends
 
-* by [Klockheed Martian Limited (KML)][KML]
-  * [Asteroid Cities (AC)][AC]
-  * [Insight Lander (INSIGHT)][INSIGHT]
-  * [Space Shuttle Engines (SSE)][SSE]
-  * [Space Shuttle Tanks (SST)][SST]
-  * [Special Parts Division (SPD)][SPD]
+* by [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+  * [Asteroid Cities (AC)](https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities)
+  * [Space Shuttle Engines (SSE)](https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines)
+  * [Special Parts Division (SPD)](https://www.curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
+  * [Insight Lander (INSIGHT)](https://www.curseforge.com/kerbal/ksp-mods/Insight)
 
 ### Suggests
 
-* [Adjustable Mod Panel (KAMP)][KAMP]
-* [Biomatic (BIO)][BIO]
-* [Exception Detector (EXCD)][EXCD]
-* [Field Training Facility (FTF)][FTF]
-* [Field Training Lab (FTL)][FTL]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Kaboom! (BOOM)][BOOM]
-* [MoarKerbals (MOAR)][MOAR]
-* [OhScrap! (OHS)][OHS]
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [Precise Maneuver (PM)][PM]
-* [Rover Anti Gravity System (RAGS)][RAGS]
-* [ScrapYard (SYD)][SYD]
-* [SimpleConstruction! (SCON)][SCON]
-* [SimpleLogistics! (SLOG)][SLOG]
-* [SimpleNotes! (NOTE)][NOTES]
-* [Solar Science (SOL)][SOL]
-* [TweakScale][twk]
+* [Adjustable Mod Panel (KAMP)](https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
+* [Biomatic (BIO)](https://www.curseforge.com/kerbal/ksp-mods/Biomatic)
+* [Docking Port Descriptions (DPD)](https://www.curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
+* [Exception Detector (EXCD)](https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+* [Field Training Facility (FTF)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
+* [Field Training Lab (FTL)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+* [Kaboom! (BOOM)](https://www.curseforge.com/kerbal/ksp-mods/Kaboom)
+* [Mkerb Science Instruments](https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments)
+* [Near Future Rovers (NFR)](https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers)
+* [OhScrap! (OHS)](https://www.curseforge.com/kerbal/ksp-mods/OhScrap)
+* [On Demand Fuel Cells (ODFC)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+* [OScience Laboratories (OSL)](https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
+* [Papa Kerballini's Pizza (PIZZA)](https://www.curseforge.com/kerbal/ksp-mods/Pizza)
+* [Precise Maneuver (PM)](https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver)
+* [Pteron (MSRV)](https://www.curseforge.com/kerbal/Pteron)
+* [ScrapYard (SCRAP)](https://www.curseforge.com/kerbal/ksp-mods/ScrapYard)
+* [SimpleConstruction! (SCON)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+* [SimpleLife! (LIFE)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife)
+* [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+* [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
+* [Solar Science (SOL)](https://www.curseforge.com/kerbal/ksp-mods/SolarScience)
+* [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
 
 ### Supports
 
-* [ModularManagement (MM)][MM] or [Module Manager][m-m]
+* [ModularManagement (MM)][MM] or [Module Manager][omm]
+* [TweakScale][twk]
 
 ### Tags
 
@@ -163,33 +168,8 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
-[BIO]: https://www.curseforge.com/kerbal/ksp-mods/Biomatic "Biomatic (BIO)"
-[BOOM]: https://www.curseforge.com/kerbal/ksp-mods/Kaboom "Kaboom! (BOOM)"
-[EXCD]: https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector "Exception Detector (EXCD)"
-[FTF]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility "Field Training Facility (FTF)"
-[FTL]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab "Field Training Lab (FTL)"
-[GPO]: https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump "GPO SpeedPump (GPO)"
-[INSIGHT]: https://www.curseforge.com/kerbal/ksp-mods/Insight "Insight Lander (INSIGHT)"
-[KAMP]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel "Adjustable Mod Panel (KAMP)"
-[MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
-[NOTES]: https://www.curseforge.com/kerbal/ksp-mods/Notes "SimpleNotes! (NOTES)"
-[ODFC]: https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells "On Demand Fuel Cells (ODFC)"
-[OHS]: https://www.curseforge.com/kerbal/ksp-mods/OhScrap "OhScrap (OHS)"
-[PM]: https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver "Precise Maneuver (PM)"
-[RAGS]: https://www.curseforge.com/kerbal/ksp-mods/roverantigravityroom "Rover Anti Gravity System"
-[SCON]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
-[SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
-[SOL]: https://www.curseforge.com/kerbal/ksp-mods/SolarScience "Solar Science (SOL)"
-[SYD]: https://www.curseforge.com/kerbal/ksp-mods/ScrapYard "ScrapYard (SYD)"
-
-[KML]: https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd "Klockheed Martian Limited (KML)"
-[AC]:  https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities "Asteroid Cities (AC)"
-[SPD]: https://www.curseforge.com/kerbal/ksp-mods/SpecialPartsDivision "Special Parts Division (SPD)"
-[SSE]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines "Space Shuttle Engines (SSE)"
-[SST]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleTanks "Space Shuttle Tanks (SST)"
-
 [MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
 
 <!-- financial support -->
