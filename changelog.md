@@ -2,12 +2,47 @@
   
 | modName    | Klockheed Martian Ltd (KML)                                       |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-4.0                                                      |
+| license    | CC-BY-ND-4.0+ARR                                                  |
 | author     | dtobi and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/KlockheedMartianLtd)    |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)  |
 | spacedock  | (https://spacedock.info/mod/3025)                                 |
+
+## Version 1.0.3.0-release - `<Expansion: Asteroid Cities>` edition
+
+* Released
+  * 05 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes Summary 1.0.3.0
+
+* Add Asteroid Cities localization strings
+* Correct typo(s)
+  * was DescriptionRish and should be DescriptionRich
+
+### Update 1.0.3.0
+
+* Add
+  * Localization
+    * Asteroid Cities
+    * [en-us.cfg] v1.0.3.0
+    * [pt-br.cfg] v1.0.3.0
+      * new strings not localized yet.
+  * updates #8 - English <en-us.cfg>
+  * updates #9 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+  * updates #7 - Localization - Master
+* Update
+  * [Agents.cfg] v1.0.3.0
+    * Correct typo(s)
+  * Documentation
+  * HeroLogo/Cover image
+* Issues
+  * closes #39 - Klockheed Martian Ltd (KML) 1.0.3.0-release `<Our Mission is Kerbal>` edition
+  * closes #40 - 1.0.3.0 Additional Tasks
+
+---
 
 ## Version 1.0.2.0-release - `<Our Mission is Kerbal>` edition
 
@@ -16,7 +51,7 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Changes Summary
+### Changes Summary 1.0.2.0
 
 * Update
   * Agency and textures
@@ -33,8 +68,8 @@
   * Correct typo(s)
   * HeroLogo/Cover image
   * Add DescriptionR
-    * <en-us.cfg> v1.0.2.0
-    * <pt-br.cfg> v1.0.2.0
+    * [en-us.cfg] v1.0.2.0
+    * [pt-br.cfg] v1.0.2.0
   * updates #7 - Localization - Master
   * updates #8 - English <en-us.cfg>
   * updates #9 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
@@ -58,7 +93,7 @@
 
 ### Add 1.0.1.0
 
-* <pt-br.cfg> v1.0.1.0
+* [pt-br.cfg] v1.0.1.0
   * translation courtesy of [LisiasT](https://github.com/net-lisias-ksp)
   * closes #9 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
   * updates #7 - Localization - Master
@@ -86,7 +121,7 @@
 
 ### Changes 1.0.0.0
 
-* <en-us.cfg> v1.0.1.0
+* [en-us.cfg] v1.0.1.0
   * Correct typo
   * updates #8 - English <en-us.cfg>
   * updates #7 - Localization - Master
@@ -94,7 +129,7 @@
   * correct size to 512x320
   * convert to dds (DXT5)
   * add new white version
-* <Agents.cfg> v1.0.1.0
+* [Agents.cfg] v1.0.1.0
   * add flags
 
 ### Status 1.0.0.0
@@ -124,7 +159,7 @@
 ### Localization 0.9.99.0
 
 * Add
-  * <us-en.cfg>
+  * [us-en.cfg]
   * Localization/
     * [readme.md]
     * [quickstart.md]
