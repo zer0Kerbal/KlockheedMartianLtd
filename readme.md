@@ -87,7 +87,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
 * [Solar Science (SOL)](https://www.curseforge.com/kerbal/ksp-mods/SolarScience)
-* [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Stack Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
 
 ### Supports
 
