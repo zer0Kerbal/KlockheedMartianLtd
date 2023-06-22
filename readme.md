@@ -1,11 +1,11 @@
-<!-- readme.md v1.0.2.0
+<!-- readme.md v1.0.4.0
 Klockheed Martian Ltd. (KML)
 created: 05 Aug 2022
-updated: 04 May 2023
+updated: 22 Jun 2023
 
-TEMPLATE: readme.md v1.7.4.0
+TEMPLATE: readme.md v1.7.4.2
 created: 17 Jul 2017
-updated: 29 May 2023
+updated: 18 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 # [Klockheed Martian Ltd (KML)][CURSFG:url]
@@ -35,14 +35,15 @@ an original creation by *KerbSimpleCo*
 
 ### Localization
 
->* ![English][EN] English
->* ![Português Brasil][BR] Brazilian Portuguese - courtesy of [LisiasT](https://github.com/net-lisias-ksp)
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png) English
+>* ![Português Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png) Brazilian Portuguese - obrigado [LísiasT](https://github.com/net-lisias-ksp)
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
 >* ***your translation here***
 
 ### Help Wanted
 
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -88,11 +89,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
 * [Solar Science (SOL)](https://www.curseforge.com/kerbal/ksp-mods/SolarScience)
 * [Stack Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
-
-### Supports
-
-* [ModularManagement (MM)][MM] or [Module Manager][omm]
-* [TweakScale][twk]
 
 ### Tags
 
@@ -168,21 +164,15 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
-[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
+
+[auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/ "dtobi"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
@@ -191,9 +181,6 @@ Comment, click, like, share, up-vote, subscribe
 [youtube]: https://www.youtube.com/@zer0Kerbal
 [steam]: https://steamcommunity.com/id/zeroKerbal
 [projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
-
-[auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/ "dtobi"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 #### Connect with me
 

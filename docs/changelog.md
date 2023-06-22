@@ -20,6 +20,52 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)  |
 | spacedock  | (https://spacedock.info/mod/3025)                                 |
 
+## Version 1.0.4.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 05 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.4.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Localization 1.0.4.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+    * add header, give credit
+  * [ru.cfg] v1.0.2.0
+    * localized additional strings
+      * Спасибо [evanisrael](https://github/evanisrael)
+* closes #15 - Russian <ru.cfg>
+* updates #7 - Localization - Master
+
+#### Documentation 1.0.4.0
+
+* Update
+  * [readme.md] v1.0.4.0
+  * [Attributions.md] v1.0.3.0
+  * [Localizations.md] v1.0.3.0
+  * [ReleaseLayout.md] v1.0.4.0
+
+* Issues
+  * closes #43 - Klockheed Martian Ltd (KML) 1.0.4.0-release `<Спасибо evanisrael>` edition
+  * closes #44 - 1.0.4.0 Additional Tasks
+
+---
+
 ## Version 1.0.3.0-release - `<Expansion: Asteroid Cities>` edition
 
 * Released
@@ -97,7 +143,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * for Kerbal Space Program 1.12.4
   * by zer0Kerbal
 
-## Summary
+### Summary
 
 * Add Brazilian Portuguese (Português Brasil)
 * translation courtesy of [LisiasT](https://github.com/net-lisias-ksp)
@@ -124,7 +170,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * for Kerbal Space Program 1.12.4
   * by zer0Kerbal
 
-## Summary 1.0.0.0
+### Summary 1.0.0.0
 
 * Kerbal Space Program 1.12.4
 * correct typo(s)

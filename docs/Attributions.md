@@ -5,20 +5,18 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-Attributions.md v1.0.2.0
+Attributions.md v1.0.3.0
 Klockheed Martian Ltd (KML)
 created: 05 Aug 2022
-updated: 04 May 2023
+updated: 22 Jun 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
 updated: 15 Mar 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
-
 
 ## [Klockheed Martian Ltd (KML)][mod]
 
@@ -52,15 +50,14 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Contract(s)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/207619-*/"><img alt="caerfinon" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2022_09/wxImeeP2.thumb.jpg.fdf7794f6380664d5e14876b4232125e.jpg" width="50px" height="50px" > caerfinon</a></li>
-</ul>
+* none
 
 ### Translations
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian Portuguese - courtesy of <a href="https://github.com/net-lisias-ksp" alt="LisiasT" > LisiasT</a></li> 
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian Portuguese - courtesy of <a href="https://github.com/net-lisias-ksp" alt="LisiasT" > LisiasT</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
